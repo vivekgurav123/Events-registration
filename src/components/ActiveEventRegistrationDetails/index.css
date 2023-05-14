@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.registered {
+  text-align: center;
+}
+.registered img {
+  width: 100px;
+  height: 100px;
+}
+.msg {
+  text-align: center;
+  font-size: 25px;
+}
+.yet-to-register,
+.closed {
+  text-align: center;
+  width: 300px;
+}
+.yet-to-register img,
+.closed img {
+  width: 200px;
+  height: 200px;
+}

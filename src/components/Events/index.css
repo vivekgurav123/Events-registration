@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.main-div {
+  /* padding: 30px; */
+  max-width: 1140px;
+  margin: auto;
+}
+.content {
+  display: flex;
+  align-items: center;
+}
+.list {
+  display: flex;
+  /* flex-direction: row; */
+  list-style: none;
+  padding: 0;
+  flex-wrap: wrap;
+}
+.event {
+  max-width: 800px;
+  background-color: #323f4b;
+  padding: 50px;
+}
+.event h1 {
+  font-size: 18px;
+  margin-bottom: 0;
+  color: white;
+}
+
+.registration {
+  padding: 30px;
+}

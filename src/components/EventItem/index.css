@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.list-item {
+  max-width: 200px;
+  display: flex;
+  margin-right: 20px;
+  flex-direction: column;
+  margin-bottom: 20px;
+  color: white;
+}
+.list-item button {
+  border: none;
+  background-color: transparent;
+}
